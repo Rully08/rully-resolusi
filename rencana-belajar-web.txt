@@ -1,5 +1,7 @@
 RENCANA BELAJAR WEB
 - belajar javascript
+  . framework javascript
+    * angular
+    * vue
 - belajar tailwinds
   . version 4.0+
-- membuat web portofolio menggunakan laravel,tailwind,js,dll
