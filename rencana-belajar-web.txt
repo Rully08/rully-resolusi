@@ -6,4 +6,3 @@ RENCANA BELAJAR WEB
 - belajar tailwinds
   . version 4.0+
 - membuat web portofolio menggunakan laravel,tailwind,js,dll
-- belajar bootstrap 5
